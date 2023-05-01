@@ -1,5 +1,7 @@
 # DrawOn
 We are creating a simple drawing app.
+# Get it from Playstore
+https://play.google.com/store/apps/details?id=com.flaxstudio.drawon
 
 Tools:
 1) rectangle
